@@ -19,5 +19,6 @@ h2 {
 }
 
 #tasks completed {
+  background: aqua;
   text-decoration: underline;
 }
